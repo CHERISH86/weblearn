@@ -1,4 +1,4 @@
-﻿body {
+body {
   background-color: rgb(185, 176, 164);
   color: black;
   font-family: Helvetica Neue, Helvetica, Arial;
@@ -54,20 +54,9 @@ nav li:first-child {
 
 /* RESPONSIVE RULES */
 
-@media screen and (max-width: 710px) {
+@media screen and (max-width: 1440px) {
   header {
-    height: 300px;
-  }
-
-  nav li {
-    display: block;
-    margin-left: 0;
-  }
-}
-
-@media screen and (max-width: 310px) {
-  header {
-    height: 1500px;
+    height: 1600px;
   }
 
   nav li {
