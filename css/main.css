@@ -54,9 +54,9 @@ nav li:first-child {
 
 /* RESPONSIVE RULES */
 
-@media screen and (max-width: 1440px) {
+@media screen and (max-width: 710px) {
   header {
-    height: 1600px;
+    height: 300px;
   }
 
   nav li {
@@ -89,9 +89,6 @@ section figure img {
 }
 section figure img:hover {
   transform: scale(1.02);
-}
-section .secondDiv {
-  background-color: rgb(146, 179, 166);
 }
 
 /* FOOTER */
