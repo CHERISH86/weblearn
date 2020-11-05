@@ -1,4 +1,4 @@
-body {
+﻿body {
   background-color: rgb(185, 176, 164);
   color: black;
   font-family: Helvetica Neue, Helvetica, Arial;
@@ -67,7 +67,7 @@ nav li:first-child {
 
 @media screen and (max-width: 310px) {
   header {
-    height: 600px;
+    height: 1500px;
   }
 
   nav li {
