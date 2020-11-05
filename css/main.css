@@ -63,9 +63,16 @@ nav li:first-child {
     display: block;
     margin-left: 0;
   }
+}
 
-  header .logo a:hover {
-    
+@media screen and (max-width: 310px) {
+  header {
+    height: 600px;
+  }
+
+  nav li {
+    display: block;
+    margin-left: 0;
   }
 }
 
